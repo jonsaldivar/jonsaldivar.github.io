@@ -1,5 +1,9 @@
 ## Welcome to GitHub Pages
 
+theme: jekyll-theme-cayman
+title: Welcome to Jonathan's homepage!
+desrciption: Feel free to to boomark this page.
+
 You can use the [editor on GitHub](https://github.com/jonsaldivar/jonsaldivar.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
